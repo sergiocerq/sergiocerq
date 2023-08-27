@@ -1,4 +1,3 @@
-
 <div>
   <h1 align="center"> Olá, eu sou Sérgio Cerqueira! </h1>
   <p align="center">🔭 - I'm a software developer since 2022, currently working with front-end. </p>
