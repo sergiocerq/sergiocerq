@@ -25,7 +25,4 @@
   <img align="center" alt="Sergio-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 </div><br>
 <hr/>
-
-  ![Snake animation](https://github.com/sergiocerq/sergiocerq/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
