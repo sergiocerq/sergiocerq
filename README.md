@@ -25,6 +25,3 @@
 </div><br>
 <hr/>
 </div>
-
-<!--END_SECTION:data-section-->
-![github contribution grid snake animation](https://raw.githubusercontent.com/sergiocerq/sergiocerq/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sergiocerq/sergiocerq/output/github-contribution-grid-snake.svg#gh-light-mode-only)
