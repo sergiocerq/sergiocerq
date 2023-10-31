@@ -15,7 +15,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,git,github,vite,postman,mongodb,firebase,java,vscode" /><br>
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,bootstrap,nodejs,git,github,postman,mongodb,java,vscode,postgresql" /><br>
 </div><br>
 <hr/>
 </div>
