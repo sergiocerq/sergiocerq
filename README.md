@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"> Olá, eu sou Sérgio Cerqueira! </h1>
   <p align="center">🔭 - I'm a software developer since 2022, currently working with front-end. </p>
-  <p align="center"> 🌱 I'm learning React JS and Java </p>
+  <p align="center"> 🌱 I'm learning Typescript and Java </p>
   <p align="center"> 💻 Technology is very fascinating! </p>
   <p align="center"> ⚽ I love watch football, it makes my life better! </p>
 </div>
