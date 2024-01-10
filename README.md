@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Olá, eu sou Sérgio Cerqueira! </h1>
+  <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou Sérgio Cerqueira! </h1>
   <p align="center">🔭 - I'm a software developer since 2022, currently working with front-end. </p>
   <p align="center"> 🌱 I'm learning Typescript and Next</p>
   <p align="center"> 💻 Technology is very fascinating! </p>
