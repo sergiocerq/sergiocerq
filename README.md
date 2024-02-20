@@ -1,4 +1,5 @@
 <div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC2947&height=120&section=header"/>
   <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou Sérgio Cerqueira! </h1>
   <p align="center">🔭 - I'm a software developer since 2022, currently working with front-end. </p>
   <p align="center"> 🌱 I'm learning Typescript and Next</p>
@@ -15,8 +16,8 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,nodejs,next" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,nodejs,next" /><br>
   <img src="https://skillicons.dev/icons?i=python,java,spring,git,linux,mysql,vscode" /><br>
-</div><br>
-<hr/>
+  </div><br>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC2947&height=120&section=footer"/>
 </div>
