@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,nodejs,next,nginx" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,nodejs,nginx" /><br>
   <img src="https://skillicons.dev/icons?i=python,java,spring,git,linux,mysql,vscode" /><br>
   </div><br>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
