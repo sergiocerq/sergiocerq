@@ -17,7 +17,7 @@
 
 <div align="center" valign="top"><br>
    <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,git,linux,bash,postgres,mongodb,idea" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   </div><br>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
 </div>
