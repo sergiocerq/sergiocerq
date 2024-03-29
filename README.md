@@ -1,9 +1,9 @@
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15d4c1&height=120&section=header"/>
   <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou Sérgio Cerqueira! </h1>
-  <p align="center">🔭 - I'm a software developer since 2022, currently working with front-end. </p>
-  <p align="center"> 🌱 I'm learning Typescript and Next</p>
-  <p align="center"> 💻 Technology is very fascinating! </p>
+  <p align="center">🔭 - I'm a software developer since 2022, currently working with full-stack. </p>
+  <p align="center"> 🌱 I'm learning Spring Boot and MongoDB</p>
+  <p align="center"> 💻 Abstracting problems through technology is fascinating! </p>
   <p align="center"> ⚽ I love watch football, it makes my life better! </p>
 </div>
 <hr/>
@@ -15,9 +15,11 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-   <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,git,linux,bash,postgres,mongodb,idea" /><br>
+<div align="center" valign="top">
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,git,linux,bash,postgres,mongodb,idea" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  </div><br>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
-</div>
+  </div>
+  <br>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15d4c1&height=120&section=footer"/>
+
