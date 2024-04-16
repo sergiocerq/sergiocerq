@@ -1,5 +1,5 @@
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15d4c1&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff200&height=120&section=header"/>
   <h1 align="center">Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> sou Sérgio Cerqueira! </h1>
   <p align="center">🔭 - I'm a software developer since 2022, currently working with full-stack. </p>
   <p align="center"> 🌱 I'm learning Spring Boot and MongoDB</p>
@@ -10,8 +10,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/sergiocerq">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergiocerq&show_icons=true&theme=gotham"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocerq&layout=compact&theme=gotham&size_weight=0.5&count_weight=0.5"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergiocerq&show_icons=true&theme=slateorange"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocerq&layout=compact&theme=slateorange&size_weight=0.5&count_weight=0.5"/>
   </a>
 </div>
 
@@ -21,5 +21,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   </div>
   <br>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15d4c1&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff200&height=120&section=footer"/>
 
