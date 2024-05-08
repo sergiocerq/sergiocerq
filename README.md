@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,git,linux,bash,postgres,mongodb,docker,idea" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,nest" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15d4c1&height=120&section=footer"/>
