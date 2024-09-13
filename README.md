@@ -18,7 +18,7 @@
 <div align="center" valign="top">
   <br>
   <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,git,linux,bash,postgres,docker,idea,rabbitmq" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,angular" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=jest,nodejs,firebase" />
 </div>
